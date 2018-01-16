@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "shadow-cljs": "^2.0.132",
+    "source-map-support": "^0.4.14",
+    "ws": "^2.2.3"
+  },
+  "dependencies": {
+    "xregexp": "^4.0.0"
+  }
+}
