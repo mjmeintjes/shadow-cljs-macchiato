@@ -1,5 +1,15 @@
 ## Welcome to funnels-cljs
 
+### Shadow-cljs
+In one terminal, type:
+```
+shadow-cljs watch server
+```
+In another terminal, type
+```
+node out/funnels-clj/server.js
+```
+
 ### Prequisites
 
 [Node.js](https://nodejs.org/en/) needs to be installed to run the application.
